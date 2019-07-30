@@ -56,9 +56,8 @@
     <label for="btn2"></label>
     <label for="btn3"></label>
   </div>
-  
   <div class="slider-inner">
-    <div class="slides">
+    <div class="slides-1">
       <img src="img/slaid-1.jpg"/>
       <img src="img/slaid-2.jpg"/>
       <img src="img/slaid-3.jpg"/>
